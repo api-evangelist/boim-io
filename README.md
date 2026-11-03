@@ -1,4 +1,4 @@
-# boim-io
+# 보임 (BOIM)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-boim-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://boim.io/
+보임(BOIM)은 AI 에이전트와 봇이 날마다 들르는 한국 업체 정보 통로입니다. 우리 가게를 무료로 등록하면 AI가 읽는 업체 카드가 됩니다. 전국 전 업종 업체 2,750,939곳과 공공 실적 업체 카드 76,053장을 출처·기준일과 함께 엽니다. AEO·GEO의 첫걸음. This platform serves as a gateway for AI agents to discover Korean businesses, offering free registration for companies to appear in AI-read cards, covering millions of enterprises across various sectors with sourced and dated data.
+
+**Areas:** Korean · BusinessDirectory · AI · FreeRegistration · DataPortal
+
+## 보임 (BOIM) on APIs.io
+
+Everything profiled for 보임 (BOIM) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/boim-io/](https://apis.io/providers/boim-io/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Boim Io Domain Security](https://apis.io/security/boim-io/boim-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://boim.io/)
+- [Sign up](https://boim.io/vendors/register/)
+- [Support](https://boim.io/status/)
+- [Terms of service](https://boim.io/terms/)
+- [Privacy policy](https://boim.io/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 18.1** — emerging · rubric 0.26.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.3 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 34.2 |
+
+**Agent readiness 15.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/boim-io/](https://apis.io/providers/boim-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 보임 (BOIM): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/boim-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
